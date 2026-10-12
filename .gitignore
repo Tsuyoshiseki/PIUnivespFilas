@@ -9,6 +9,8 @@ node_modules/
 dist/
 # Ambiente
 .env
+.env.*
+!.env.example
 *.log
 # IDE / SO
 .vscode/
